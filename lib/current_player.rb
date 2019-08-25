@@ -1,6 +1,6 @@
 #def turn_count(borad)
-  arr = []
-  board.each do |position|
+  #arr = []
+  #board.each do |position|
    # if position == "X" || position == "O"
      # arr << 1 #shovel method 
   #  end
